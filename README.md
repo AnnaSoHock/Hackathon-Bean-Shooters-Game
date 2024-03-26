@@ -1,4 +1,4 @@
-# Hackathon Submission for LA Hacks 2022
+# Hackathon Submission for UCLA LA Hacks 2022
 Team: Anna Hock, John Dang, Joshua Lee, Tuan Tran
 
 [<img width="790" alt="image" src="https://github.com/AnnaSoHock/Hackathon-Bean-Shooters-Game/assets/81744048/a4ff69f9-ce13-4093-9972-731ea3e942d2">
